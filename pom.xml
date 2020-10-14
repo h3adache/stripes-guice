@@ -32,7 +32,7 @@
         <jsp-api.version>2.0</jsp-api.version>
         <servlet-api.version>2.5</servlet-api.version>
         <jstl.version>1.2</jstl.version>
-        <junit.version>4.8.2</junit.version>
+        <junit.version>4.13.1</junit.version>
         <annotations.version>9.0.4</annotations.version>
         <logback-classic.version>0.9.19</logback-classic.version>
     </properties>
